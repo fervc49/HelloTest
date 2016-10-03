@@ -7,6 +7,7 @@ import android.util.Log;
 public class MainActivity extends AppCompatActivity {
 
 //change from other user
+    //can chance be detected?
     //Trying to make a change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
